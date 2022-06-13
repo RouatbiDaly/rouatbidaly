@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rouatbi Daly</h1>
 <h3 align="center">A passionate flutter developer</h3>
 ![Rouatbi](https://user-images.githubusercontent.com/27770358/173341339-a4303b98-2178-4b83-8983-9de5b6de8403.gif)
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://user-images.githubusercontent.com/27770358/173341339-a4303b98-2178-4b83-8983-9de5b6de8403.gif)">
 
 
 - 🌱 I’m currently learning **DevOps**
