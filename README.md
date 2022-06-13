@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Rouatbi Daly</h1>
 <h3 align="center">A passionate flutter developer</h3>
-<img align="right" alt="Coding" width="400" src="![Rouatbi](https://user-images.githubusercontent.com/27770358/173341339-a4303b98-2178-4b83-8983-9de5b6de8403.gif)
->
+![Rouatbi](https://user-images.githubusercontent.com/27770358/173341339-a4303b98-2178-4b83-8983-9de5b6de8403.gif)
+
 
 - 🌱 I’m currently learning **DevOps**
 
